@@ -1,5 +1,4 @@
 import React from "react";
-import Tachyon from "tachyons";
 
 const Card = ({ name, email, id }) => {
   return (
